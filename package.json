@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@capacitor/android": "^3.5.1",
+    "colors": "^1.4.0",
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "ipfs-http-client": "^56.0.2",
+    "nanoid": "^4.0.0"
+  }
+}
